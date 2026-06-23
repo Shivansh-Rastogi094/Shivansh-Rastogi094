@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Applications<br>👯 I’m looking to collaborate with Like minded people<br>🌱 I’m currently learning backend development<br>💬 Ask me about my passion<br>⚡ Fun fact - Doing an intern as Project Manager
+🔭 I’m currently working on Java Full Stack Web Applications<br>👯 I’m looking to collaborate with Like minded people<br>🌱 I’m currently working as SWE Intern @Monocept<br>💬Open for better opportunities<br>⚡ Fun fact - Ex-Project/Product Manager
 
 
 ## 🌐 Socials:
