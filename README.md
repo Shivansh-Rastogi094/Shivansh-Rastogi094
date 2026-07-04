@@ -45,16 +45,23 @@
   <a href="https://skillicons.dev">
     <!-- Row 1: Languages & Core Frontend -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cc%2Ccpp%2Cpy%2Chtml%2Ccss%2Cjs%2Creact%2Ctailwind%2Cbootstrap&theme=dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=java%2Cc%2Ccpp%2Cpy%2Chtml%2Ccss%2Cjs%2Creact%2Ctailwind%2Cbootstrap&theme=light" />
-      <img src="https://skillicons.dev/icons?i=java%2Cc%2Ccpp%2Cpy%2Chtml%2Ccss%2Cjs%2Creact%2Ctailwind%2Cbootstrap&theme=light" alt="Languages & Frontend" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cc%2Ccpp%2Cpy%2Chtml%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cbootstrap&theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=java%2Cc%2Ccpp%2Cpy%2Chtml%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cbootstrap&theme=light" />
+      <img src="https://skillicons.dev/icons?i=java%2Cc%2Ccpp%2Cpy%2Chtml%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cbootstrap&theme=light" alt="Languages & Frontend" />
     </picture>
     <br />
-    <!-- Row 2: Backend, DBs, Deployment & Tools -->
+    <!-- Row 2: Backend & Database -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Csupabase%2Cvite%2Cvercel%2Cnetlify%2Cpostman&theme=dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Csupabase%2Cvite%2Cvercel%2Cnetlify%2Cpostman&theme=light" />
-      <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Csupabase%2Cvite%2Cvercel%2Cnetlify%2Cpostman&theme=light" alt="Backend & Tools" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Cmysql%2Credis%2Csupabase%2Cfirebase&theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=spring%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Cmysql%2Credis%2Csupabase%2Cfirebase&theme=light" />
+      <img src="https://skillicons.dev/icons?i=spring%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Cmysql%2Credis%2Csupabase%2Cfirebase&theme=light" alt="Backend & Database" />
+    </picture>
+    <br />
+    <!-- Row 3: DevOps, Cloud & Development Tools -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Caws%2Cgit%2Cgithub%2Cvscode%2Cpostman%2Cvite%2Cvercel%2Cnetlify&theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Caws%2Cgit%2Cgithub%2Cvscode%2Cpostman%2Cvite%2Cvercel%2Cnetlify&theme=light" />
+      <img src="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Caws%2Cgit%2Cgithub%2Cvscode%2Cpostman%2Cvite%2Cvercel%2Cnetlify&theme=light" alt="DevOps & Tools" />
     </picture>
   </a>
 </p>
@@ -103,24 +110,24 @@
         <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=Shivansh-Rastogi094&theme=default&border=61dafb" alt="Shivansh's streak stats" />
       </picture>
     </a>
-    <!-- github stats -->
+    <!-- github stats (with cache query optimized) -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Stats Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shivansh-Rastogi094&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Shivansh-Rastogi094&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Shivansh-Rastogi094&show_icons=true&theme=default&border_color=61dafb" alt="Shivansh's github stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shivansh-Rastogi094&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Shivansh-Rastogi094&show_icons=true&theme=default&border_color=61dafb&cache_seconds=1800" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Shivansh-Rastogi094&show_icons=true&theme=default&border_color=61dafb&cache_seconds=1800" alt="Shivansh's github stats" />
       </picture>
     </a>
   </div>
   
   <br /><br /><br /><br /><br /><br /><br /><br /><br />
   
-  <!-- top languages graph -->
+  <!-- top languages graph (with cache query optimized) -->
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Top Languages">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Rastogi094&theme=react&hide_border=true&layout=compact" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Rastogi094&theme=default&border_color=61dafb&layout=compact" />
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Rastogi094&theme=default&border_color=61dafb&layout=compact" alt="Shivansh's top languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Rastogi094&theme=react&hide_border=true&layout=compact&cache_seconds=1800" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Rastogi094&theme=default&border_color=61dafb&layout=compact&cache_seconds=1800" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Rastogi094&theme=default&border_color=61dafb&layout=compact&cache_seconds=1800" alt="Shivansh's top languages" />
     </picture>
   </a>
 </p>
@@ -131,21 +138,21 @@
 <h2 align="center">👨‍💻 Pinned Repositories 👨‍💻</h2>
 <br />
 <div width="100%" align="center">
-  <!-- repo 1: Insurance-Project-Frontend -->
+  <!-- repo 1: Insurance-Project-Frontend (cache query optimized) -->
   <a align="right" href="https://github.com/Shivansh-Rastogi094/Insurance-Project-Frontend" title="Insurance Project Frontend">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Insurance-Project-Frontend&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Insurance-Project-Frontend&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Insurance-Project-Frontend&theme=graywhite&border_radius=10.0" alt="Insurance Project Frontend stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Insurance-Project-Frontend&theme=react&border_color=61dafb&border_radius=10.0&cache_seconds=1800" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Insurance-Project-Frontend&theme=graywhite&border_radius=10.0&cache_seconds=1800" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Insurance-Project-Frontend&theme=graywhite&border_radius=10.0&cache_seconds=1800" alt="Insurance Project Frontend stats" />
     </picture>
   </a>
 
-  <!-- repo 2: Xpense-tracker -->
+  <!-- repo 2: Xpense-tracker (cache query optimized) -->
   <a align="left" href="https://github.com/Shivansh-Rastogi094/Xpense-tracker" title="Xpense Tracker">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Xpense-tracker&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Xpense-tracker&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Xpense-tracker&theme=graywhite&border_radius=10" alt="Xpense Tracker stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Xpense-tracker&theme=react&border_color=61dafb&border_radius=10&cache_seconds=1800" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Xpense-tracker&theme=graywhite&border_radius=10&cache_seconds=1800" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Xpense-tracker&theme=graywhite&border_radius=10&cache_seconds=1800" alt="Xpense Tracker stats" />
     </picture>
   </a>
 </div>
@@ -153,12 +160,12 @@
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <!-- repo 3: Swabhav_Training_SpringBoot -->
+  <!-- repo 3: Swabhav_Training_SpringBoot (cache query optimized) -->
   <a href="https://github.com/Shivansh-Rastogi094/Swabhav_Training_SpringBoot" title="Swabhav Training SpringBoot">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Swabhav_Training_SpringBoot&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Swabhav_Training_SpringBoot&theme=graywhite&border_radius=10" />
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Swabhav_Training_SpringBoot&theme=graywhite&border_radius=10" alt="Swabhav Training SpringBoot stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Swabhav_Training_SpringBoot&theme=react&border_color=61dafb&border_radius=10&cache_seconds=1800" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Swabhav_Training_SpringBoot&theme=graywhite&border_radius=10&cache_seconds=1800" />
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Swabhav_Training_SpringBoot&theme=graywhite&border_radius=10&cache_seconds=1800" alt="Swabhav Training SpringBoot stats" />
     </picture>
   </a>
 </div>
