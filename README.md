@@ -1,18 +1,157 @@
-# 💫 About Me:
-🔭 I’m currently working on Java Full Stack Web Applications<br>👯 I’m looking to collaborate with Like minded people<br>🌱 I’m currently working as SWE Intern @Monocept<br>💬Open for better opportunities<br>⚡ Fun fact - Ex-Project/Product Manager
+<!-- profile view count -->
+<img align="right" src="https://visitcount.itsvg.in/api?id=Shivansh-Rastogi094&icon=0&color=0">
 
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Shivansh+Rastogi!;+Java+Full+Stack+Developer;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivansh-Rastogi ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rshivansh094@gmail.com) 
+<br />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shivansh-Rastogi094&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shivansh-Rastogi094&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Rastogi094&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- about me -->
+<p align="center">
+  Hi, I'm Shivansh, a Java Full Stack Developer 💻, Learner 👨‍💻, and Ex-Project/Product Manager 🚀 from India 🇮🇳.
+  <br />
+  <br />
+  🌱 Currently working on Java Full Stack Web Applications.
+  <br />
+  💼 I'm currently a Software Engineer Intern @Monocept.
+  <br />
+  👯 Open to collaborating with like-minded people.
+  <br />
+  💬 Open for better opportunities.
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Shivansh-Rastogi094&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- social handles -->
+<div align="center"> 
+  <!-- linkedin -->
+  <a href="https://linkedin.com/in/Shivansh-Rastogi" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <!-- gmail -->
+  <a href="mailto:rshivansh094@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr />
+
+<!-- skills -->
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Row 1: Languages & Core Frontend -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cc%2Ccpp%2Cpy%2Chtml%2Ccss%2Cjs%2Creact%2Ctailwind%2Cbootstrap&theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=java%2Cc%2Ccpp%2Cpy%2Chtml%2Ccss%2Cjs%2Creact%2Ctailwind%2Cbootstrap&theme=light" />
+      <img src="https://skillicons.dev/icons?i=java%2Cc%2Ccpp%2Cpy%2Chtml%2Ccss%2Cjs%2Creact%2Ctailwind%2Cbootstrap&theme=light" alt="Languages & Frontend" />
+    </picture>
+    <br />
+    <!-- Row 2: Backend, DBs, Deployment & Tools -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Csupabase%2Cvite%2Cvercel%2Cnetlify%2Cpostman&theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Csupabase%2Cvite%2Cvercel%2Cnetlify%2Cpostman&theme=light" />
+      <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Csupabase%2Cvite%2Cvercel%2Cnetlify%2Cpostman&theme=light" alt="Backend & Tools" />
+    </picture>
+  </a>
+</p>
+
+<!-- Other Tools & Creative Suite -->
+<h3 align="center">🛠️ PM Tools, Creative Suite & Hobbies</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io" />
+  <br />
+  <img src="https://img.shields.io/badge/Epic_Games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Riot_Games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" />
+</p>
+
+<hr />
+
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contributions 🐍</h2>
+  <br />
+  <!-- Replace Shivansh-Rastogi094 below with your active branch setup if you have a contribution snake action configured -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shivansh-Rastogi094/Shivansh-Rastogi094/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Shivansh-Rastogi094/Shivansh-Rastogi094/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/Shivansh-Rastogi094/Shivansh-Rastogi094/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+</div>
+
+<hr />
+
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+  <div align=center>
+    <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Streak Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Shivansh-Rastogi094&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Shivansh-Rastogi094&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=Shivansh-Rastogi094&theme=default&border=61dafb" alt="Shivansh's streak stats" />
+      </picture>
+    </a>
+    <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Stats Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shivansh-Rastogi094&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Shivansh-Rastogi094&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Shivansh-Rastogi094&show_icons=true&theme=default&border_color=61dafb" alt="Shivansh's github stats" />
+      </picture>
+    </a>
+  </div>
+  
+  <br /><br /><br /><br /><br /><br /><br /><br /><br />
+  
+  <!-- top languages graph -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Top Languages">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Rastogi094&theme=react&hide_border=true&layout=compact" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Rastogi094&theme=default&border_color=61dafb&layout=compact" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Rastogi094&theme=default&border_color=61dafb&layout=compact" alt="Shivansh's top languages" />
+    </picture>
+  </a>
+</p>
+
+<hr />
+
+<!-- featured repositories -->
+<h2 align="center">👨‍💻 Pinned Repositories 👨‍💻</h2>
+<br />
+<div width="100%" align="center">
+  <!-- repo 1 (Change repo=YOUR_REPO_NAME) -->
+  <a align="right" href="https://github.com/Shivansh-Rastogi094/your-first-repo" title="Repository 1">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-first-repo&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-first-repo&theme=graywhite&border_radius=10.0" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-first-repo&theme=graywhite&border_radius=10.0" alt="Repository 1 stats" />
+    </picture>
+  </a>
+
+  <!-- repo 2 (Change repo=YOUR_REPO_NAME) -->
+  <a align="left" href="https://github.com/Shivansh-Rastogi094/your-second-repo" title="Repository 2">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-second-repo&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-second-repo&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-second-repo&theme=graywhite&border_radius=10" alt="Repository 2 stats" />
+    </picture>
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Shivansh-Rastogi094?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
