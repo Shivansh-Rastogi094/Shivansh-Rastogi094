@@ -79,11 +79,10 @@
 <div align="center">
   <h2>🐍 Snake eating my contributions 🐍</h2>
   <br />
-  <!-- Replace Shivansh-Rastogi094 below with your active branch setup if you have a contribution snake action configured -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shivansh-Rastogi094/Shivansh-Rastogi094/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Shivansh-Rastogi094/Shivansh-Rastogi094/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/Shivansh-Rastogi094/Shivansh-Rastogi094/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivansh-Rastogi094/Shivansh-Rastogi094/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/Shivansh-Rastogi094/Shivansh-Rastogi094/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Shivansh-Rastogi094/Shivansh-Rastogi094/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
   <br />
   <br />
@@ -132,25 +131,39 @@
 <h2 align="center">👨‍💻 Pinned Repositories 👨‍💻</h2>
 <br />
 <div width="100%" align="center">
-  <!-- repo 1 (Change repo=YOUR_REPO_NAME) -->
-  <a align="right" href="https://github.com/Shivansh-Rastogi094/your-first-repo" title="Repository 1">
+  <!-- repo 1: Insurance-Project-Frontend -->
+  <a align="right" href="https://github.com/Shivansh-Rastogi094/Insurance-Project-Frontend" title="Insurance Project Frontend">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-first-repo&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-first-repo&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-first-repo&theme=graywhite&border_radius=10.0" alt="Repository 1 stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Insurance-Project-Frontend&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Insurance-Project-Frontend&theme=graywhite&border_radius=10.0" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Insurance-Project-Frontend&theme=graywhite&border_radius=10.0" alt="Insurance Project Frontend stats" />
     </picture>
   </a>
 
-  <!-- repo 2 (Change repo=YOUR_REPO_NAME) -->
-  <a align="left" href="https://github.com/Shivansh-Rastogi094/your-second-repo" title="Repository 2">
+  <!-- repo 2: Xpense-tracker -->
+  <a align="left" href="https://github.com/Shivansh-Rastogi094/Xpense-tracker" title="Xpense Tracker">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-second-repo&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-second-repo&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=your-second-repo&theme=graywhite&border_radius=10" alt="Repository 2 stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Xpense-tracker&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Xpense-tracker&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Xpense-tracker&theme=graywhite&border_radius=10" alt="Xpense Tracker stats" />
     </picture>
   </a>
 </div>
+
 <br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <!-- repo 3: Swabhav_Training_SpringBoot -->
+  <a href="https://github.com/Shivansh-Rastogi094/Swabhav_Training_SpringBoot" title="Swabhav Training SpringBoot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Swabhav_Training_SpringBoot&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Swabhav_Training_SpringBoot&theme=graywhite&border_radius=10" />
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Rastogi094&repo=Swabhav_Training_SpringBoot&theme=graywhite&border_radius=10" alt="Swabhav Training SpringBoot stats" />
+    </picture>
+  </a>
+</div>
+
+<br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/Shivansh-Rastogi094?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
